@@ -1,1 +1,1 @@
-# simple-website
+This website is pretty cool!
